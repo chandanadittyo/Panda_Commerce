@@ -1,0 +1,23 @@
+.background_clr{
+    background-color: #FCEAE8;
+    
+}
+
+.text_clr{
+    color: #FF136F;
+    
+}
+
+.btn_clr{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+}
+
+.mini_card{
+    border-radius: 10px;
+
+}
+
+.img_size{
+    width: 100px;
+}
